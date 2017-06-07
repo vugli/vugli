@@ -1,2 +1,1 @@
-proba gitta
-ys
+proba git
